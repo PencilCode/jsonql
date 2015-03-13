@@ -1,6 +1,6 @@
 {
   "name": "jsonql",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An extended version of JSONPath with additional data filtering, sorting, mapping, and matching.  A port of dojo JSONQuery.",
   "main": "index.js",
   "keywords": [

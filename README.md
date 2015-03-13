@@ -12,7 +12,7 @@ This is a dependency-free port of JSONQuery from dojox.json.query.
 By Kris Zyp
 Ported by David Bau
 
-Version 0.0.1
+Version 0.0.2
 
 
 Usage
